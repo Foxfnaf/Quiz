@@ -1,0 +1,26 @@
+[
+  {
+    "pytanie": "W którym roku pojawiła się Java?",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "prawidlowaOdpowiedz": "c"
+  },
+  {
+    "pytanie": "Kto stworzył Javę?",
+    "a": "Bill Gates",
+    "b": "Steve Jobs",
+    "c": "James Gosling",
+    "d": "Dennis Ritchie",
+    "prawidlowaOdpowiedz": "c"
+  },
+  {
+    "pytanie": "W którym roku powstał kanał Jak nauczyć się programowania?",
+    "a": "2018",
+    "b": "2019",
+    "c": "2020",
+    "d": "2021",
+    "prawidlowaOdpowiedz": "a"
+  }
+]
